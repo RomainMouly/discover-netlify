@@ -8,4 +8,5 @@
 
 ## Deployment
 
-* Link to the website deployed on Netlify : [Link]()
+* Link to the website deployed on Netlify :
+https://priceless-cori-e9b193.netlify.app
